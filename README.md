@@ -6,7 +6,9 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@lmalsaabna53540/30-nites-of-code)  
+  ![@lmalsaabna53540 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lmalsaabna53540)
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
