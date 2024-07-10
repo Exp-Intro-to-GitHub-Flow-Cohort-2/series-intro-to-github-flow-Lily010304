@@ -7,9 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@lmalsaabna53540/30-nites-of-code)  
-  ![@lmalsaabna53540 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lmalsaabna53540)
-# Introduction to GitHub
+  [Check out my progress!](https://www.codedex.io/@lilyjv2003/30-nites-of-code)  
+  ![@lilyjv2003 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=lilyjv2003)
 
 _Get started using GitHub in less than an hour._
 
